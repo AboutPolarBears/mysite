@@ -1,0 +1,45 @@
+h1{
+	color: blue;
+	text-align: center;
+	font-size: 400%;
+	}
+	
+ body{
+   background: linear-gradient(to left,cyan,white);
+}
+
+
+
+#secondparagraph
+
+<p> {
+	border: 3px dashed blue ;
+	outline-color: blue;
+	
+} 
+ 
+
+
+/* h1{ */
+	/* text-align: center; */
+/* } */
+
+
+
+#secondparagraph:hover {
+    /* color: blue; */
+	color: red
+	;
+}
+	
+
+
+/* body{ */
+	/* background-image: url("backround.png"); */
+/* } */
+
+p{
+	font-family: Times New Roman;
+}
+
+	
